@@ -1,0 +1,4 @@
+{
+  "go_version": "$version.amd64._1.22_",
+  "name": "ugc-go-rest-service"
+}
